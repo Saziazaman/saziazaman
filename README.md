@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Sazia Zaman
+#### web designer 
+Full-stack web developer with a vast knowledge of WordPress
+
+Skills: JS / HTML / CSS / SASS
+
+- 🔭 I’m currently working on this page. 
 
 
-**Saziazaman/saziazaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saziazaman)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saziazaman)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saziazaman&show_icons=true)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=saziazaman)  
+
+![Profile views](https://gpvc.arturio.dev/saziazaman)  
