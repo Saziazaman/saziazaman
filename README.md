@@ -1,10 +1,66 @@
-### Hi there 👋, my name is Sazia Zaman
-#### web designer 
-Full-stack web developer with a vast knowledge of WordPress
 
-Skills: JS / HTML / CSS / SASS
+## 👋 Hi there, my name is **Sazia Zaman**
 
-- 🔭 I’m currently working on this page. 
+### 🎯 A Professional Software Quality Assurance Engineer (SQA)
+
+---
+
+### 🧰 Core Skills
+
+#### 🧪 Manual Testing
+- Test Case Design, Execution, Bug Reporting
+- Requirement Analysis
+
+#### 🔗 API Testing
+- Postman
+- Newman
+
+#### 🚀 Performance Testing
+- Apache JMeter
+
+#### ✅ Functional Testing
+- System Testing
+- Integration Testing
+- Regression Testing
+
+#### 📉 Non-Functional Testing
+- Load Testing
+- Performance Testing
+
+---
+
+### 🛠️ Tools & Technologies
+
+- JIRA, TestRail, GitHub  
+- HTML, CSS, Bootstrap, Sass, WordPress  
+- MySQL  
+
+---
+
+### 💻 Programming Languages
+
+- Java  
+- Python  
+- JavaScript  
+- PHP  
+
+---
+
+### 💡 Soft Skills
+
+- Communication  
+- Team Collaboration  
+- Problem Solving  
+- Attention to Detail  
+
+---
+
+🔍 *Always learning and evolving in the field of Software Quality Assurance!*
+
+
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saziazaman)  
